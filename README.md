@@ -1,3 +1,18 @@
+📝 Notebook Overview
+This notebook presents a complete supervised learning pipeline for predicting customer churn in a telecom company. It covers data preprocessing, feature engineering, and classification using models like Logistic Regression, Random Forest, KNN, Decision Tree, and XGBoost.
+
+The project is designed to identify potential churners so that the company can take preventive actions to improve customer retention.
+
+Highlights:
+
+  - Clean and structured pipeline for churn prediction
+
+  - Cross-validation and hyperparameter tuning
+
+  - Model evaluation with accuracy, precision, recall, F1-score, and ROC AUC
+
+  - Insight generation to support business decision-making
+
 This project is a machine learning pipeline for predicting customer churn in a fictional telecommunications. It includes end-to-end analysis: from data cleaning and feature engineering to model building and evaluation.
 
 🧠 Business Problem
